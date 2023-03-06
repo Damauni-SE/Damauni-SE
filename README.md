@@ -1,16 +1,17 @@
-### Hi there 👋
+# About Me 🎭
+<p>Hello! I am a Computer Science graduate that is highly motivated and passionate about learning software development. I often practise coding because I aspire to become a software engineer. You can find me reading, going for walks, or creating artwork when not coding. Some of my art may be found on <a href ="https://www.tiktok.com/@damauni_">TikTok</a>. </p>
 
-<!--
-**Damauni-SE/Damauni-SE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to contact me by <a href="mailto:damauni.bingham@gmail.com">email</a> or by connecting with me on <a href ="https://www.linkedin.com/in/damauni-se/">LinkedIn</a> if you have any questions or concerns.
 
-Here are some ideas to get you started:
+## Languages and Tools 🧰
+<p>As an advocate for continuous learning, I am always eager to acquire new skills and knowledge. Therefore, I enjoy exploring various languages and tools to enhance my understanding of software development and expand my skill set. I am  proficient in C++ and working towards becoming proficient in web development technologies. This list is bound to grow❗</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Table of programming languages and tools -->
+|Language/Tool|Logo|
+|---        |---|
+|C++        |<img align="center" alt="C++" width="35px" style="padding-right:10px;" src="https://tinyurl.com/cpp-logo"/>|
+|HTML       |<img align="center" alt="HTML" width="35px" style="padding-right:10px;" src="https://tinyurl.com/html-logo"/>|
+|JavaScript |<img align="center" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://tinyurl.com/JavaScript-logo"/>|
+|MySQL      |<img align="center" alt="MySQL" width="35px" style="padding-right:10px;" src="https://tinyurl.com/MySQL-logo"/>|
+
+<br>
