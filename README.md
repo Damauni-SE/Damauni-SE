@@ -1,5 +1,5 @@
 # About Me 🎭
-<p>Hello! I am a Computer Science graduate that is highly motivated and passionate about learning software development. I often practise coding because I aspire to become a software engineer. You can find me reading, going for walks, or creating artwork when not coding. Some of my art may be found on <a href ="https://www.tiktok.com/@damauni_">TikTok</a>. </p>
+<p>Hello! I am a Computer Science graduate that is highly motivated and passionate about learning software development. I often practise coding because I aspire to become a software engineer. Outside of programming, my hobbies include reading, video games, and creating artwork. Some of my art may be found on <a href ="https://www.tiktok.com/@damauni_">TikTok</a>. </p>
 
 Feel free to contact me by <a href="mailto:damauni.bingham@gmail.com">email</a> or by connecting with me on <a href ="https://www.linkedin.com/in/damauni-se/">LinkedIn</a> if you have any questions or concerns.
 
@@ -13,5 +13,3 @@ Feel free to contact me by <a href="mailto:damauni.bingham@gmail.com">email</a> 
 |HTML       |<img align="center" alt="HTML" width="35px" style="padding-right:10px;" src="https://tinyurl.com/html-logo"/>|
 |JavaScript |<img align="center" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://tinyurl.com/JavaScript-logo"/>|
 |MySQL      |<img align="center" alt="MySQL" width="35px" style="padding-right:10px;" src="https://tinyurl.com/MySQL-logo"/>|
-
-<br>
