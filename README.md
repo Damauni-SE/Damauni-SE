@@ -4,7 +4,7 @@
 Feel free to contact me by <a href="mailto:damauni.bingham@gmail.com">email</a> or by connecting with me on <a href ="https://www.linkedin.com/in/damauni-se/">LinkedIn</a> if you have any questions or concerns.
 
 ## Languages and Tools 🧰
-<p>As an advocate for continuous learning, I am always eager to acquire new skills and knowledge. Therefore, I enjoy exploring various languages and tools to enhance my understanding of software development and expand my skill set. I am  proficient in C++ and have been actively working towards becoming proficient in Javascript. My eagerness to learn and grow means that this list of languages and tools is bound to keep expanding.❗</p>
+<p>As an advocate for continuous learning, I am always eager to acquire new skills and knowledge. Therefore, I enjoy exploring various languages and tools to enhance my understanding of software development and expand my skill set. I am  proficient in C++ and have been actively working towards becoming proficient in Javascript. My eagerness to learn and grow means that this list of languages and tools is bound to keep expanding❗</p>
 
 <!-- Table of programming languages and tools -->
 |Language/Tool|Logo|
