@@ -10,6 +10,7 @@ Feel free to contact me by <a href="mailto:damauni.bingham@gmail.com">email</a> 
 |Language/Tool|Logo|
 |---        |---|
 |C++        |<img align="center" alt="C++" width="35px"  src="https://tinyurl.com/cpp-logo"/>|
+|Python     |<img align="center" alt="Python" width="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>|
 |HTML       |<img align="center" alt="HTML" width="35px" src="https://tinyurl.com/html-logo"/>|
 |CSS        |<img align="center" alt="CSS" width="25px" src="https://tinyurl.com/CSS3-logo">|
 |JavaScript |<img align="center" alt="JavaScript" width="35px" src="https://tinyurl.com/JavaScript-logo"/>|
